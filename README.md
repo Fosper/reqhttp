@@ -1,2 +1,2 @@
 # reqhttp
-Eazy http(s) requests.
+Eazy http(s) requests!
